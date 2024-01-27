@@ -8,7 +8,7 @@ label: Terraforms 101
 
 ## Vocabulary and Terms
 
-## Pracel Traits
+## Parcel Traits
 - Modes
 - Levels
 - X/Y Coordinates
