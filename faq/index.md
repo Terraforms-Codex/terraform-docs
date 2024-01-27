@@ -1,7 +1,7 @@
 ---
 label: FAQs and Links
 icon: question
-order: 10
+order: 50
 ---
 
 # FAQs and Links
