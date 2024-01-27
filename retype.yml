@@ -13,7 +13,7 @@ edit:
 links:
   - text: Explorer
     link: https://terraformexplorer.xyz/
-    icon: x-circle-fill
+    icon: telescope-fill
 
   - text: Twitter # Icon from https://iconmonstr.com
     link: https://twitter.com/mathcastles
